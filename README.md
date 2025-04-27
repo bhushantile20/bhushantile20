@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b207142-f48a-4257-8340-20095f9629c6)<h1 align="center">Hi 👋, I'm Bhushan Tile</h1>
+<h1 align="center">Hi 👋, I'm Bhushan Tile</h1>
 
 <h3 align="center">A passionate developer from India, currently pursuing MCA</h3>
 
