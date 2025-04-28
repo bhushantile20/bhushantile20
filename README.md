@@ -1,5 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhushan 
-======================================================================================================================================
+ 
+---
+<!-- Intro  -->
+<h3 align="center">
+        <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There!, I am
+                <b> Bhushan </b>
+        </samp>
+</h3>
+
+
+<div align="center" style="margin-left:"800px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+     <br>
+</div>
+
+
 
 <h3 align="center">A passionate developer from India, currently pursuing MCA</h3>
 
@@ -16,7 +30,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.leetcode.com/bhushantile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushantile" height="30" width="40" /></a>
 </p>
 
-
 ### Skills
 
 
@@ -26,10 +39,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-### Badges
+<br>
 
-<b>My GitHub Stats</b>
+[![My Skills](https://skillicons.dev/icons?i=azure,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,django,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,vscode,idea,linux)](https://skillicons.dev)
 
-<a href="http://www.github.com/bhushantile20"><img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhushantile20's GitHub stats" /></a>
 
-<a href="https://github.com/bhushantile20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## My Github Stats 📊
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521&theme=algolia&hide_border=true"/>|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpesh521&theme=algolia&show_icons=true&hide_border=true)|
+|---|---|
+ 
+---  
+
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalpesh521&theme=radical"/>|![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
+|---|---|
