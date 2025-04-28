@@ -32,7 +32,6 @@
 
 ### Skills
 
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
@@ -41,18 +40,12 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,django,bootstrap)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,vscode,idea,linux)](https://skillicons.dev)
-
-
----
 
 ## My Github Stats 📊
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521&theme=algolia&hide_border=true"/>|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpesh521&theme=algolia&show_icons=true&hide_border=true)|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=algolia&hide_border=true"/>|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true)|
 |---|---|
  
 ---  
 
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalpesh521&theme=radical"/>|![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=radical"/>|![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
 |---|---|
