@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">A passionate developer from India, currently pursuing MCA</h3>
+<h3 align="center">           A passionate developer from India, currently pursuing MCA</h3>
 
 - 🛠️ I’m currently working on **React/React Native**
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Interesting Projects**
