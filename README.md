@@ -71,9 +71,11 @@
 
 ## 📊 My GitHub Stats
 
-| <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="GitHub Stats" /> |
+
+
+| <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="GitHub Profile Summary" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" /> |
 
 ---  
 
