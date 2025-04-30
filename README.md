@@ -66,12 +66,15 @@
 
 </p>
 
-
-
-## My Github Stats 📊
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=algolia&hide_border=true"/>|![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true)|
-|---|---|
  
+
+
+## 📊 My GitHub Stats
+
+| <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="GitHub Stats" /> |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="Profile Summary Card" /> |
+
 ---  
 
 |<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=radical"/>|![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
