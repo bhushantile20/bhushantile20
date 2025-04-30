@@ -72,12 +72,8 @@
 ## 📊 My GitHub Stats
 
 
-
 | <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> |
 |---|---|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" /> |
 
----  
 
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=radical"/>|![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
-|---|---|
