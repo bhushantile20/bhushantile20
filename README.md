@@ -71,6 +71,11 @@
 
 ## 📊 My GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushantile20&show_icons=true&theme=blueberry)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhushantile20&theme=blueberry)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=blueberry)
 
 | <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> |
 |---|---|
