@@ -70,6 +70,22 @@
 
 ### 📊 My GitHub Stats
 
+
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhushantile20&theme=github_dark" alt="GitHub Stats Card" />
+  <img width="400" src="https://streak-stats.demolab.com?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="Profile Summary" />
+</p>
+
+
+
+
   <img width=390 src="https://streak-stats.demolab.com/?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
  <img src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> 
