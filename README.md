@@ -69,6 +69,11 @@
  
 
 ### 📊 My GitHub Stats
+<h2 align="center">⚡ Current Statistics ⚡</h2> <br> <div align="center"> <img width="390" src="https://github-readme-streak-stats.demolab.com?user=bhushantile20&theme=algolia&hide_border=true" alt="streak stats"/> <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&show_icons=true&theme=algolia&hide_border=true" alt="readme stats" /> <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="top languages" /> <img width="730" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary" /> </div> <br/>
+
+
+
+
 
   <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
