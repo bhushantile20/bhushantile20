@@ -70,43 +70,22 @@
 
 ### 📊 My GitHub Stats
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="390" src="https://streak-stats.demolab.com/?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-      </td>
-      <td>
-        <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="top languages"/>
-      </td>
-      <td>
-        <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary"/>
-      </td>
-    </tr>
-  </table>
+
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+    <img width="390" src="https://streak-stats.demolab.com/?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
+
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="top languages"/>
+
+    <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary"/>
+
+  </div>
+
 </div>
-
-
-
-
-
-
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
- <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> 
-</div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" /> 
- </div>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" /> 
 
 
 
