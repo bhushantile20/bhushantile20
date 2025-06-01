@@ -69,12 +69,12 @@
 
 
 ### 📊 My GitHub Stats
-
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=bhushantile20&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  <img src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" /> 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" /> 
-
+</div>
 
 
 
