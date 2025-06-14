@@ -9,15 +9,16 @@
 
 
 <div align="center" style="margin-left:"800px">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
      <br>
 </div>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a> -->
 
 
 
 <h3 align="center">           A passionate developer from India, currently pursuing MCA</h3>
 
-- 🛠️ I’m currently working on **React/React Native**
+- 🛠️ I’m currently working on **ReactJs**
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **Interesting Projects**
 - 🌱 Currently diving deep into **Programming and Development**
 - 🤝  I'm open to collaborating on Projects
