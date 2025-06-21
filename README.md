@@ -76,9 +76,9 @@
 <div align="center">
   <table>
     <tr>
-     <td>
-    <img width="390" src="https://user-images.githubusercontent.com/20955511/183303756-2b0134af-ab8b-42d4-b805-4e853f929c5e.png" alt="Algolia GitHub Theme Preview"/>
-  </td>
+ <td >
+  <img width="360" src="https://raw.githubusercontent.com/bhushantile20/my-repo/main/assets/my-github-theme.png" alt="My GitHub Theme Preview"/>
+</td>
       <td>
         <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
       </td>
