@@ -72,31 +72,39 @@
 ### 📊 My GitHub Stats
 
 
-
 <div align="center">
   <table>
     <tr>
- <td >
-
-  <img width="360"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue&hide_border=true&background=00000000" 
-     alt="My GitHub Streak Stats"/>  
-
-</td>
       <td>
-        <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
+        <!-- 🔥 Streak Stats with transparent bg -->
+        <img width="360"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue&hide_border=true&background=00000000" 
+             alt="GitHub Streak Stats"/>
+      </td>
+      <td>
+        <!-- 🧠 GitHub Stats with transparent bg -->
+        <img width="390"
+             src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true&bg_color=00000000"
+             alt="GitHub Stats"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="top languages"/>
+        <!-- 📊 Top Languages with transparent bg -->
+        <img width="390"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true&bg_color=00000000"
+             alt="Top Languages"/>
       </td>
       <td>
-        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary"/>
+        <!-- 🧾 Profile Summary with transparent bg -->
+        <img width="400"
+             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia&bg_color=00000000"
+             alt="Profile Summary"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhushantile20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
