@@ -77,7 +77,11 @@
   <table>
     <tr>
  <td >
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue" alt="My GitHub Theme Preview"/>
+
+  <img width="360"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue&hide_border=true&background=00000000" 
+     alt="My GitHub Streak Stats"/>  
+
 </td>
       <td>
         <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
