@@ -77,7 +77,7 @@
   <table>
     <tr>
  <td >
-  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue" alt="My GitHub Theme Preview"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushantile20&theme=github-dark-blue" alt="My GitHub Theme Preview"/>
 </td>
       <td>
         <img width="390" src="https://github-readme-stats.vercel.app/api?username=bhushantile20&theme=algolia&show_icons=true&hide_border=true" alt="github stats"/>
@@ -88,7 +88,7 @@
         <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushantile20&layout=compact&theme=algolia&hide_border=true" alt="top languages"/>
       </td>
       <td>
-        <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary"/>
+        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushantile20&theme=algolia" alt="profile summary"/>
       </td>
     </tr>
   </table>
