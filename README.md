@@ -16,13 +16,13 @@
 
 
 
-<h3 align="center">           A passionate developer from India, currently pursuing MCA</h3>
+<h3 align="center">A passionate developer from India, currently pursuing MCA</h3>
 
-- 🛠️ I’m currently working on **ReactJs**
-- 🧑‍🤝‍🧑 I’m looking to collaborate on **Interesting Projects**
-- 🌱 Currently diving deep into **Programming and Development**
-- 🤝  I'm open to collaborating on Projects
-
+- 🔭 I’m currently working with **React.js** and exploring the **MERN Stack**
+- 👯 I’m looking to collaborate on **industry-relevant and impactful projects**
+- 🌱 Actively upskilling in **backend development, databases, and system design**
+- 🤝 Open to internships, freelance opportunities, and project collaborations aimed at **placements or real-world application**
+- 💡 Driven by curiosity, clean code, and solving meaningful problems
 
 
 <h3 align="left">Connect with me:</h3>
