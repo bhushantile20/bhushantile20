@@ -15,16 +15,6 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a> -->
 
 
-
-<h3 align="center">A passionate developer from India, currently pursuing MCA</h3>
-
-- 🔭 I’m currently working with **React.js** and exploring the **MERN Stack**
-- 👯 I’m looking to collaborate on **industry-relevant and impactful projects**
-- 🌱 Actively upskilling in **backend development, databases, and system design**
-- 🤝 Open to internships, freelance opportunities, and project collaborations aimed at **placements or real-world application**
-- 💡 Driven by curiosity, clean code, and solving meaningful problems
-
-
 <h3 align="center">💻 A Passionate Developer from India, Currently Pursuing MCA</h3>
 
 <p align="center">
