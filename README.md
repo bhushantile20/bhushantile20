@@ -25,6 +25,33 @@
 - 💡 Driven by curiosity, clean code, and solving meaningful problems
 
 
+<h3 align="center">💻 A Passionate Developer from India, Currently Pursuing MCA</h3>
+
+<p align="center">
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+</p>
+
+---
+
+- 🔭 I’m currently working with **React.js**, **Spring Boot**, and exploring the **MERN Stack**  
+- 👯 I’m looking to collaborate on **industry-relevant and impactful projects**  
+- 🌱 Actively upskilling in **backend development, databases, and system design**  
+- 🤝 Open to **internships, freelance opportunities, and project collaborations** aimed at **placements or real-world applications**  
+- 💡 Driven by **curiosity, clean code, and solving meaningful problems**, with strong enthusiasm for **Java and full-stack development**  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhushan-tile-6b4322236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan tile" height="30" width="40" /></a>
