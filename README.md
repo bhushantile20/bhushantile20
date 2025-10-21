@@ -27,7 +27,6 @@
 
 ---
 
-- 🔭 I’m currently working with **React.js**, **Spring Boot**, and exploring the **MERN Stack**  
 - 👯 I’m looking to collaborate on **industry-relevant and impactful projects**  
 - 🌱 Actively upskilling in **backend development, databases, and system design**  
 - 🤝 Open to **internships, freelance opportunities, and project collaborations** aimed at **placements or real-world applications**  
