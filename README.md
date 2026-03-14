@@ -18,7 +18,7 @@
 <h3 align="center">💻 A Passionate Developer from India, Currently Pursuing MCA</h3>
 
 <p align="center">
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://www.python.com"><img src="https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
