@@ -124,8 +124,9 @@
   <img src="./focus-mindset.png" alt="My personal motivation: focus, discipline, career growth, health, and self-improvement" width="100%" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushantile20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bhushantile20&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
