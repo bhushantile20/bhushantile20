@@ -117,6 +117,11 @@
     </tr>
   </table>
 </div>
+## 🎯 My Focus. My Future. My Journey.
+
+<p align="center">
+  <img src="./focus-mindset.png" alt="My personal motivation: focus, discipline, career growth, health, and self-improvement" width="100%" />
+</p>
 
 
 <p align="center">
